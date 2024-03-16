@@ -1,6 +1,5 @@
 # System Architecture
 
 - Home
-- 
-- [Software Requirments Specification](#system_architecture/SRS.md)
+- [Software Requirments Specification](#system_Architecture/SRS.md)
 - Test Plan Document
